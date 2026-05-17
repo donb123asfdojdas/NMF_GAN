@@ -1,0 +1,10 @@
+{
+  "completion_mae": 0.004068095656111837,
+  "completion_mse": 2.761233100376792e-05,
+  "completion_rmse": 0.004077828662292822,
+  "location_error_mean_distance": 14.22657480140498,
+  "location_error_normalized": 0.1778321850175622,
+  "power_error_relative_mae": 0.31016148660068127,
+  "power_error_mae": 23.24361677389296,
+  "num_samples": 30
+}
