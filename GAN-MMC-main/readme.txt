@@ -1,0 +1,3 @@
+生成的4xn的数据首先通过Data Preprocessing.py进行填充预处理形成4x8的数据，并存放在data/Generate文件中
+通过unt3.py文件加载模型进行高精度补全
+GAN-MMC.py是模型结构部分，用于训练模型
